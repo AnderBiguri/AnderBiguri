@@ -5,7 +5,7 @@
  Within this context, I have coded the [TIGRE toolbox](https://github.com/CERN/TIGRE) a MATLAB/python + CUDA high performance toolbox for GPU accelerated iterative reconstruction of CT images.
  Mostly proficient in MATLAB, Python (numpy, pytorch, etc) , some C and C++ and CUDA.
  
- Nowadays, I work at University of Cambridge's Department of Applied Mathematics and Theoretical Physics, working on model-driven machine learning techniques for CT recon. 
+ Nowadays, I work at University of Cambridge's Department of Applied Mathematics and Theoretical Physics, working on model-driven machine learning techniques for CT recon, and thus making a new library called [LION](https://github.com/CambridgeCIA/LION).
  
 
 <!---
