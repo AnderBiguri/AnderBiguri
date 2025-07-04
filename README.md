@@ -1,4 +1,7 @@
  Hi, I’m @AnderBiguri, 
+
+See my full profile in [my webpage](https://anderbiguri.github.io/), but in short:
+ 
  I have a PhD in tomographic reconstruction algorithms. I mostly focus on [Computed Tomography (CT)](https://en.wikipedia.org/wiki/CT_scan) but have also worked in [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
  and a bit of [Electrical Impedance Tomography (EIT)](https://en.wikipedia.org/wiki/Electrical_impedance_tomography).
  
